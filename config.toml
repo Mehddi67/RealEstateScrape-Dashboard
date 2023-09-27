@@ -1,0 +1,16 @@
+[Thème]
+#Couleur d'accentuation principale pour les éléments interactifs.
+couleurPrimaire = "#E694FF"
+
+#Couleur de fond pour la zone de contenu principale.
+couleurFond = "#00172B"
+
+#Couleur de fond utilisée pour la barre latérale et la plupart des widgets interactifs.
+couleurFondSecondaire = "#0083B8"
+
+#Couleur utilisée pour presque tout le texte.
+couleurTexte = "#FFF"
+
+#Famille de polices pour tout le texte de l'application, à l'exception des blocs de code. L'une des options : "sans-serif", "serif" ou "monospace".
+#Par défaut : "sans-serif"
+police = "sans-serif"
