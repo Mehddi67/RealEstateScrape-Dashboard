@@ -90,5 +90,32 @@ To quickly get started with the project using provided datasets, follow these st
 
 Feel free to choose the method that suits your needs, whether you want to collect and process data or simply explore the dashboard. Happy analyzing!
 
+
+## Dashboard Preview
+
+Here's a visual preview of our interactive dashboard:
+
+### Main Dashboard
+
 <img width="1244" alt="Aperçu" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/d417819b-a425-47a5-8ca1-b8ee9ab18012">
+*Image 1 Description:This provides a glimpse of the main dashboard header.*
+
+### Regional Map
+
+![Regional Map](path/to/image2.png)
+*Image 2 Description: *
+
+### Price Trends Chart
+
+![Price Trends Chart](path/to/image3.png)
+*Image 3 Description: *
+
+### Filter Options
+
+![Filter Options](path/to/image4.png)
+*Image 4 Description:*
+
+
+
+
 
