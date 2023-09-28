@@ -61,6 +61,33 @@ To run this project, you have two options:
 6. **Interact with the Dashboard**:
    - Open a web browser and navigate to the URL provided in the terminal after running the Streamlit command. You can now interact with the dashboard, apply filters, explore data trends, and view the map with regional average prices per square meter.
 
+
+  
+To quickly get started with the project using provided datasets, follow these steps:
+
+### Method 2: Downloading Provided Datasets and Running the Interactive Dashboard
+
+1. **Download Provided Datasets**:
+   - Obtain the provided datasets containing pre-scraped data and GeoJSON files. You should have CSV files with the scraped data and GeoJSON files for geospatial information.
+
+2. **Set Up Configuration**:
+   - Open the `config.toml` file and specify background settings and font modifications as needed for your dashboard's appearance.
+
+3. **Place Files in the Same Directory**:
+   - Make sure you have the `streamlit.py` and `config.toml` files in the same directory as the downloaded datasets.
+
+4. **Launch Streamlit Dashboard**:
+   - Ensure you have Streamlit installed by running `pip install streamlit`.
+   - Open your terminal or command prompt.
+   - Navigate to the directory containing the `streamlit.py`, `config.toml`, and downloaded datasets.
+   - Run the following command to launch the Streamlit dashboard:
+     ```
+     streamlit run streamlit.py
+     ```
+
+5. **Interact with the Dashboard**:
+   - Open a web browser and navigate to the URL provided in the terminal after running the Streamlit command. You can now interact with the dashboard, apply filters, explore data trends, and view the map with regional average prices per square meter.
+
 Feel free to choose the method that suits your needs, whether you want to collect and process data or simply explore the dashboard. Happy analyzing!
 
 
