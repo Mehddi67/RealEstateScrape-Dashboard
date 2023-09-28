@@ -14,3 +14,14 @@ Welcome to the RealEstateScrape-Dashboard project, developed as part of our Mast
 
 **Interactive Dashboard:** Using Streamlit, we create an interactive dashboard that simplifies apartment searches. The dashboard allows users to apply filters and specific criteria, view various trends through charts and histograms, and explore the map displaying regional average prices per square meter. This user-friendly interface enhances data exploration and understanding.
 
+## Project Structure
+
+The project is organized as follows:
+
+- **`IMMO_FINAL.ipynb`**: This file contains the web scraping code used to collect data from the real estate website.('https://www.lesiteimmo.com')
+
+- **`IMMO_NETTOYAGE.ipynb`**: This file contains the code responsible for cleaning the scraped data and augmenting it with additional variables such as price per square meter and regional information.
+
+
+
+Feel free to explore these files to gain a better understanding of how the project is organized and functions.
