@@ -112,7 +112,7 @@ Here's a visual preview of our interactive dashboard:
 
 ### Filter Options
 
-<img width="1196" alt="Filter" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/52b96678-f728-4afd-b8b9-960ea5bbe0e2">
+<img width="1196" alt="Filter" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/4be4fe43-228a-4fab-86b6-c22ff166b112">
 *Image 4 Description:*
 
 
