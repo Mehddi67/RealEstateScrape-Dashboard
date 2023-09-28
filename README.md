@@ -90,4 +90,5 @@ To quickly get started with the project using provided datasets, follow these st
 
 Feel free to choose the method that suits your needs, whether you want to collect and process data or simply explore the dashboard. Happy analyzing!
 
+<img width="1244" alt="Aperçu" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/d417819b-a425-47a5-8ca1-b8ee9ab18012">
 
