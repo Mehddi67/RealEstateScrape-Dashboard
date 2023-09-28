@@ -102,17 +102,17 @@ Here's a visual preview of our interactive dashboard:
 
 ### Regional Map
 
-![Regional Map](path/to/image2.png)
+<img width="1234" alt="Map of France" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/9d403f09-ef18-485f-a6bc-96c927554a21">
 *Image 2 Description: *
 
 ### Price Trends Chart
 
-![Price Trends Chart](path/to/image3.png)
+<img width="1238" alt="Chart" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/a44e56f8-8f95-4799-9f88-71e2473ab386">
 *Image 3 Description: *
 
 ### Filter Options
 
-![Filter Options](path/to/image4.png)
+<img width="1196" alt="Filter" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/52b96678-f728-4afd-b8b9-960ea5bbe0e2">
 *Image 4 Description:*
 
 
