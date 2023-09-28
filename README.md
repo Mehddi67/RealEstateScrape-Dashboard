@@ -28,6 +28,39 @@ The project is organized as follows:
   
 - **`config.toml`**: This file contains configuration settings, including background customization and font modifications, for the dashboard.
 
-
-
 Feel free to explore these files to gain a better understanding of how the project is organized and functions.
+
+
+## Getting Started
+
+To run this project, you have two options:
+
+### Method 1: Scraping, Data Cleaning, and GeoJSON Creation
+
+1. **Scraping and Data Collection**:
+   - Run the `IMMO_FINAL.ipynb` file to scrape real estate data from the website and save it to CSV files in the `data` directory. Modify the scraping code in `IMMO_FINAL.ipynb` as needed to target specific data.
+
+2. **Data Cleaning and Augmentation**:
+   - Use the `IMMO_NETTOYAGE.ipynb` file to clean the scraped data and add variables such as price per square meter and regional information. This will result in an enriched dataset.
+
+3. **GeoJSON Creation**:
+   - Run the code in the `Data_geojson.ipynb` Jupyter Notebook to create GeoJSON files that combine region coordinates, geospatial data, and a subset of the enriched data. Save the resulting GeoJSON files in the `geo_data` directory.
+
+4. **Set Up Configuration**:
+   - Open the `config.toml` file and specify background settings and font modifications as needed for your dashboard's appearance.
+
+5. **Launch Streamlit Dashboard**:
+   - Ensure you have Streamlit installed by running `pip install streamlit`.
+   - Place the `streamlit.py` and `config.toml` files in the same directory.
+   - Open your terminal or command prompt.
+   - Navigate to the directory containing the `streamlit.py` and `config.toml` files.
+   - Run the following command to launch the Streamlit dashboard:
+     ```
+     streamlit run streamlit.py
+     ```
+6. **Interact with the Dashboard**:
+   - Open a web browser and navigate to the URL provided in the terminal after running the Streamlit command. You can now interact with the dashboard, apply filters, explore data trends, and view the map with regional average prices per square meter.
+
+Feel free to choose the method that suits your needs, whether you want to collect and process data or simply explore the dashboard. Happy analyzing!
+
+
