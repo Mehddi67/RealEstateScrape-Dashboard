@@ -103,17 +103,28 @@ Here's a visual preview of our interactive dashboard:
 ### Regional Map
 
 <img width="1234" alt="Map of France" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/9d403f09-ef18-485f-a6bc-96c927554a21">
-*Image 2 Description: *
+*Image 2 Description: This shows a map of France with delineated regions. Darker colors represent higher prices per square meter. The map is interactive; when you hover over a region, its name and price are displayed.*
 
 ### Price Trends Chart
 
 <img width="1238" alt="Chart" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/a44e56f8-8f95-4799-9f88-71e2473ab386">
-*Image 3 Description: *
+*Image 3 Description: This displays histograms illustrating the current trends based on the selected filters. *
 
 ### Filter Options
 
 <img width="1196" alt="Filter" src="https://github.com/Mehddi67/RealEstateScrape-Dashboard/assets/125468498/4be4fe43-228a-4fab-86b6-c22ff166b112">
-*Image 4 Description:*
+*Image 4 Description: On the left, you can see the various filters available for refining your search. On the right, there is a table displaying only the remaining listings based on the selected filters.*
+
+
+## Contributors
+
+This project was developed by:
+
+- GHAMLOUCHE MEHDI
+
+- VISOCI ALKENT
+
+Thank you for your interest and support!
 
 
 
