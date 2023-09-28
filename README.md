@@ -90,5 +90,4 @@ To quickly get started with the project using provided datasets, follow these st
 
 Feel free to choose the method that suits your needs, whether you want to collect and process data or simply explore the dashboard. Happy analyzing!
 
-![Tableau de bord](Aperçu.png)
 
