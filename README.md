@@ -22,6 +22,12 @@ The project is organized as follows:
 
 - **`IMMO_NETTOYAGE.ipynb`**: This file contains the code responsible for cleaning the scraped data and augmenting it with additional variables such as price per square meter and regional information.
 
+- **`Data_geojson.ipynb`**: This directory contains code and files used to create a fused dataset that combines region coordinates, geospatial data, and a subset of the scraped data.
+
+- **`streamlit.py`**: This file contains the code for creating the interactive dashboard using Streamlit.
+  
+- **`config.toml`**: This file contains configuration settings, including background customization and font modifications, for the dashboard.
+
 
 
 Feel free to explore these files to gain a better understanding of how the project is organized and functions.
