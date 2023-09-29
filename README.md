@@ -65,7 +65,7 @@ To run this project, you have two options:
 
 5. **Launch Streamlit Dashboard**:
    - Ensure you have Streamlit installed by running `pip install streamlit`.
-   - Place the `streamlit.py` and `config.toml` files in the same directory.
+   - Make sure that in the same folder where you have `streamlit.py`, you also have another folder named `.streamlit` containing the `config.toml` file.
    - Open your terminal or command prompt.
    - Navigate to the directory containing the `streamlit.py` and `config.toml` files.
    - Run the following command to launch the Streamlit dashboard:
