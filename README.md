@@ -14,6 +14,20 @@ Welcome to the RealEstateScrape-Dashboard project, developed as part of our Mast
 
 **Interactive Dashboard:** Using Streamlit, we create an interactive dashboard that simplifies apartment searches. The dashboard allows users to apply filters and specific criteria, view various trends through charts and histograms, and explore the map displaying regional average prices per square meter. This user-friendly interface enhances data exploration and understanding.
 
+## Data Files
+
+In this GitHub repository, you will find several data files that are integral to our project:
+
+- **Data_final.csv**: This file contains the data obtained after web scraping, comprising approximately 10,000 real estate listings.
+
+- **Data_sans_description.csv**: This dataset is derived from the same data but has undergone cleaning and preprocessing to remove irrelevant information.
+
+- **region_france.geojson**: This file contains region coordinates in French and their corresponding DOM (Départements d'Outre-Mer) coordinates.
+
+- **regions_fusionnees.geojson**: This file is a fusion of data from `region_france.geojson` and `Data_sans_description.csv`. It includes region coordinates from our dataset as well as the exact region names.
+
+These data files are essential for our project, enabling us to create interactive visualizations and gain insights into the real estate market in France. You can explore and analyze them as needed.
+
 ## Project Structure
 
 The project is organized as follows:
