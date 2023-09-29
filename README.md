@@ -2,7 +2,7 @@
 
 # Description
 
-Welcome to the RealEstateScrape-Dashboard project, developed as part of our Master's program in Data Science at the Faculty of Economics and Management of University of Strasbourg. This project focuses on scraping real estate data from a website, storing it in a CSV format database, and creating an interactive dashboard for data visualization and analysis.
+Welcome to the RealEstateScrape-Dashboard project, developed as part of our Master's program in Data Science at the Faculty of Economics and Management at the University of Strasbourg. This project focuses on scraping real estate data from a website, storing it in a CSV format database, and creating an interactive dashboard for data visualization and analysis.
 
 # Project Objectives
 
